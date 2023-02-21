@@ -1,0 +1,6 @@
+{
+  "id": "alloy",
+  "name": "Alloy Text Editor",
+  "srcdoc": "./index.html",
+  "fieldTypes": ["Text", "RichText"]
+}
